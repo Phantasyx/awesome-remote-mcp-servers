@@ -4106,7 +4106,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Jsonify MCP connector](https://glama.ai/mcp/connectors/io.github.jsonifyco/jsonify/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jsonifyco/jsonify)
   🔐 - Collect web data, manage pipelines, query datasets, and explore dashboards with Jsonify.
 - [Kempt Horizon Data Toolkit](https://phantasyx.com/apis/docs) `https://kempt-horizon-data-toolkit.mcpize.run/mcp`
-  [![Kempt Horizon Data Toolkit MCP connector](https://glama.ai/mcp/connectors/run.mcpize.kempt-horizon-data-toolkit/kempt-horizon-data-toolkit/badges/score.svg)](https://glama.ai/mcp/connectors/run.mcpize.kempt-horizon-data-toolkit/kempt-horizon-data-toolkit)
+  [![Kempt Horizon Data Toolkit MCP connector](https://glama.ai/mcp/connectors/com.phantasyx/kempt-horizon-data-toolkit/badges/score.svg)](https://glama.ai/mcp/connectors/com.phantasyx/kempt-horizon-data-toolkit)
   🔐 - Read web pages as Markdown, clean emails, phones and CSVs, and query SEC EDGAR, Federal Register and Grants.gov.
 - [LiveDataLink](https://livedatalink.ai) `https://livedatalink.ai/mcp`
   [![LiveDataLink MCP connector](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.blackboxfoundry/livedatalink)
